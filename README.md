@@ -1,1 +1,4 @@
 # api-qr
+o qr code generator é uma aplicação simplese intuitiva que premite gerar qr codes personalizadoscom diferentess tipos de dados, como urls, texto livre, numeros de telefone, emails e até mesmo informações de contato. os qr codes gerados podem ser facilmeste escaneados por smartphones e utilizados em diversas situações, como em cartões de visita, sites ou material promocional.
+fumcionalidades geração de qr code para diferentes tipos de dados:
+url; insiea um link para derar um qr code que direciona o usuário para um site especifico. texto: insira um texto livre para ser ixibida quando o qr code for escaneado. telefone: gera um qr code que facilita a realização de uma chamada telefonica. email: cria um qr code para enviar um email automaticamente ao escanear. contato:(vcard): insira informações de contato (nome, telefone, email) para gerar um qr code que pode ser salvo como um contato no smartphone.
